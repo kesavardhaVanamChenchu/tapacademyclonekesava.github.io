@@ -5,3 +5,7 @@ This project aims to demonstrate the structural layout and basic functionality u
 Disclaimer:
 This project is a simplified, non-styled representation of Tap Academy and is created for educational and demonstrative purposes only. 
 It does not include any styling or backend functionality.
+
+# Preview of website:
+https://kesavardhavanamchenchu.github.io/tapacademyclonekesava.github.io/
+

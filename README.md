@@ -1,4 +1,4 @@
-# tapacademyclonekesava.github.io
+# tapacademy colne using only HTML.github.io
 Tap Academy Clone (HTML Version)  : This repository hosts a simplified HTML-only version of the Tap Academy, a basic representation of an online learning platform.
 This project aims to demonstrate the structural layout and basic functionality using only HTML markup.
 
